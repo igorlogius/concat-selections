@@ -1,0 +1,18 @@
+{
+  "author": "igorlogius",
+  "homepage_url": "https://github.com/igorlogius",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "512": "icon.png"
+  },
+  "manifest_version": 2,
+  "name": "Concat Selections",
+  "options_ui": {
+    "page": "options.html"
+  },
+  "description": "Concat multiple text selections with a custom separator",
+  "permissions": ["storage", "menus", "clipboardWrite", "activeTab"],
+  "version": "1.0.0"
+}
