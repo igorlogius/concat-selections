@@ -1,5 +1,7 @@
 Concat multiple text selections with a custom separator
 
+### [Click here to report a bug, make a suggestion or ask a question](https://github.com/igorlogius/igorlogius/issues/new/choose)
+
 <b>Short Demo Video:</b>
 
 https://github.com/igorlogius/concat-selections/assets/67047467/46940d3f-dabd-439f-ba34-63d19469b606
